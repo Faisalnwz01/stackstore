@@ -12,13 +12,6 @@
 - [Contributors](#contributors)
 - [License](#license)
 
-## Examples
-
-
-### Live Demo
-
-![Sphynx Example](/)
-_Above: An example of the working app.
 
 
 ```html
