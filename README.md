@@ -87,6 +87,8 @@ __Note:__ If you encounter errors in the installation process for npm, it is rec
 ## Contributors
 * __Faisal Nawaz__ - Project Lead [LinkedIn](https://www.linkedin.com/in/faisalnwz) | [GitHub](https://github.com/faisalnwz01)
 * __Grant Chapman Schoffelen__ - Project Lead  [LinkedIn](https://www.linkedin.com/profile/view?id=365808666) | [GitHub](https://github.com/GrantSchoffelen)
+* * __Christian Kara__ - Project Lead [LinkedIn](https://www.linkedin.com/in/christianKara) | [GitHub](https://github.com/cifer9)
+* * __Arcadius Kazimierski__ - Project Lead [LinkedIn](https://www.linkedin.com/in/Arcadiusk) | [GitHub](https://github.com/Arcadiusk)
 ## License
 
 This projected is licensed under the terms of the [MIT license](/LICENSE)
